@@ -1,0 +1,12 @@
+{"params":
+    {"maxBedrooms":1,
+    "minBedrooms":1,
+    "maxPrice":1000,
+    "propertyTypes":"",
+    "includeLetAgreed":false,
+    "mustHave":"",
+    "dontShow":"",
+    "furnishTypes":"",
+    "keywords":""},
+"misc":{"mails":["mail1","mail2"]}
+}
